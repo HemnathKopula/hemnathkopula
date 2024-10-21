@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1i8XkLfTlidPvO0n3l086kQWgiGaedjMT/edit?usp=drive_link&ouid=111441249570107167650&rtpof=true&sd=true](https://docs.google.com/document/d/1i8XkLfTlidPvO0n3l086kQWgiGaedjMT/edit?usp=drive_link&ouid=111441249570107167650&rtpof=true&sd=true)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
