@@ -2,7 +2,7 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-### I'm Hemnath Kopula
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -26,7 +26,18 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+```javascript
+const hemnathKopula = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Next, Node, Styled-Components, Docker, TailwindCSS, Firebase],
+  challenge: "I am doing the #21DaysOfCode challenge focused on DSA on leetcode",
+  ProjectsImWorkingOn: "code-review-tool"
+}
+```
+
+
+<p align="left">I'm Hemnath Kopula from Bangalore, India <br><br>- 🔭 I’m a student at Vellore Institute of Technology <br>- 📚 I'm currently learning INTERESTING FRAMEWORKS (cooking)<br>
 
 ###
 
