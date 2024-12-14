@@ -5,8 +5,14 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/hemnathkopula/" height="25" alt="linkedin logo"  />
-  <img src="https://x.com/Hemnathkopula" height="25" alt="twitter logo"  />
+<a href="https://www.linkedin.com/in/hemnathkopula/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+
+<a href="https://x.com/Hemnathkopula" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+</a>
+
 </div>
 
 ###
@@ -30,7 +36,7 @@ const hemnathKopula = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Next, Node, Styled-Components, Docker, TailwindCSS, Firebase],
-  challenge: "I am doing the #21DaysOfCode challenge focused on DSA on leetcode",
+  challenge: "I am doing the #100DaysOfCode challenge focused on DSA on leetcode",
   ProjectsImWorkingOn: "code-review-tool"
 }
 ```
