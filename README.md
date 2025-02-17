@@ -35,14 +35,14 @@
 const hemnathKopula = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Next, Node, Styled-Components, Docker, TailwindCSS, Firebase],
+  tools: [React, Next, Node, Docker, TailwindCSS, Firebase],
   challenge: "I am doing the #100DaysOfCode challenge focused on DSA on leetcode",
-  ProjectsImWorkingOn: "code-review-tool"
+  ProjectsImWorkingOn: "UI designer app"
 }
 ```
 
 
-<p align="left">I'm Hemnath Kopula from Bangalore, India <br><br>- 🔭 I’m currently a 3rd year student at Vellore Institute of Technology <br>- 📚 I'm currently learning INTERESTING FRAMEWORKS <br>
+<p align="left">I'm Hemnath Kopula from Bangalore, India <br><br>- 🔭 I’m currently a 3rd year student at Vellore Institute of Technology <br>- 📚 Crafting subtle lines of code to make a difference. <br>
 
 ###
 
