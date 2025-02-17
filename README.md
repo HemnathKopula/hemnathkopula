@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Hemnath Kopula</h1>
+<h1 align="center">Hey there 👋 I'm Hemnath Kopula</h1>
 
 ###
 
@@ -36,7 +36,6 @@ const hemnathKopula = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Next, Node, Docker, TailwindCSS, Firebase],
-  challenge: "I am doing the #100DaysOfCode challenge focused on DSA on leetcode",
   ProjectsImWorkingOn: "UI designer app"
 }
 ```
