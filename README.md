@@ -39,13 +39,13 @@
 const hemnathKopula = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Next, Node, Docker, TailwindCSS, Firebase],
+  tools: [React, Next, AWS, Node, Docker, TailwindCSS, Firebase],
   ProjectsImWorkingOn: "UI designer app"
 }
 ```
 
 
-<p align="left">I'm Hemnath Kopula from Bangalore, India <br><br>- 🔭 I’m currently a 3rd year student at Vellore Institute of Technology <br>- 📚 Crafting subtle lines of code to make a difference. <br>
+<p align="left">I'm Hemnath Kopula from Bangalore, India <br><br>- 🔭 I’m currently a 4th year student at Vellore Institute of Technology <br>- 📚 Crafting subtle lines of code to make a difference. <br>
 
 ###
 
