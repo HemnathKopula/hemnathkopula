@@ -40,7 +40,7 @@ const hemnathKopula = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Next, AWS, Node, Docker, TailwindCSS, Firebase],
-  ProjectsImWorkingOn: "UI designer app"
+  ProjectsImWorkingOn: "Music Recommendation System"
 }
 ```
 
